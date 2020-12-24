@@ -1,3 +1,33 @@
+# Files
+*.DS_Store
+*.vscode
+*.idea
+*.vs
+.vscode
+# dotenv
+.env
+
+# GitHub Codespaces Pythonenv
+pythonenv*/
+
+# Docs
+docs/site
+
+# logs Folder
+data/
+tests/data/
+lightning_logs/
+tests/lightning_logs/
+checkpoints/
+
+# Models
+*.h5
+*.hdf5
+*.pt
+*.bin
+*.pth
+*.onnx
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -127,3 +157,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.vscode/settings.json

@@ -1,2 +1,2 @@
-# game_play
-Smarter Robots with PyTorch
+
+- Smarter Robots with PyTorch
